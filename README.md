@@ -1,4 +1,4 @@
-# 👥 MAJ_AD — Mise à jour Active Directory
+# 👥 MAJ_AD - Mise à jour Active Directory
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=for-the-badge)
 ![Windows Server](https://img.shields.io/badge/Windows-Server-0078D6?style=for-the-badge)
